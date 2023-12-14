@@ -1,0 +1,33 @@
+.card {
+  margin-top: 30vh;
+}
+p {
+  font-style: italic;
+  font-size: xx-large;
+  color: cornflowerblue;
+  font-size: 5vw;
+  margin-left: 2vw;
+}
+label {
+  font-style: italic;
+  font-size: xxx-large;
+  color: coral;
+  margin-right: 4vw;
+  font-size: 5vw;
+  text-align: left;
+  margin-left: 2vw;
+}
+option {
+  color: cornflowerblue;
+  font-size: x-large;
+  font-size: 3vw;
+  text-align: left;
+}
+
+input {
+  color: cornflowerblue;
+  font-size: x-large;
+  background-color: aliceblue;
+  font-size: 3vw;
+  text-align: left;
+}
